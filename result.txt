@@ -1,0 +1,5 @@
+Name: AMAN 
+Intake: 44 
+Section: 5 
+Id: 19202103189 
+Result: 3.78
